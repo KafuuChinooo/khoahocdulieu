@@ -1,7 +1,7 @@
 Dự án môn Khoa học Dữ liệu Nâng Cao
 Giới thiệu dự án
 
-Dự án này tập trung áp dụng các kỹ thuật khoa học dữ liệu nâng cao để phân tích và mô hình hóa một tập dữ liệu thực tế. Mục tiêu là thực hiện tiền xử lý dữ liệu, phân tích khám phá dữ liệu (EDA), tạo đặc trưng, xây dựng mô hình học máy và đánh giá kết quả để rút ra những insight có giá trị.
+Dự án này tập trung áp dụng các kỹ thuật khoa học dữ liệu nâng cao để phân tích và mô hình hóa một tập dữ liệu thực tế. Mục tiêu là thực hiện tiền xử lý dữ liệu, phân tích khám phá dữ liệu, tạo đặc trưng, xây dựng mô hình học máy và đánh giá kết quả để rút ra những insight có giá trị.
 
 ---
 

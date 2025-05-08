@@ -20,4 +20,4 @@ Dự án này tập trung áp dụng các kỹ thuật khoa học dữ liệu n�
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
 - Jupyter Notebook / Google Colab  
 - Git / GitHub  
-- (Tuỳ chọn) TensorFlow / XGBoost / LightGBM
+- (Tuỳ chọn) TensorFlow
